@@ -8,8 +8,4 @@ public class HelloGithub {
 	public void newMethod() {
 		System.out.println("Add a new method!");
 	}
-	
-	public void newMethod2() {
-		System.out.println("Add a new method!");
-	}
 }
